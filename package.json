@@ -5,6 +5,7 @@
   "description": "Generate QR Code for easy wifi sharing.",
   "author": "Antoine Julienne",
   "license": "MIT",
+  "homepage": "https://ajulienne.github.io/qr-wifi",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
