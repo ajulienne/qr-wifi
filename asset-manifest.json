@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qr-wifi/static/css/main.b2ebe043.chunk.css",
+    "main.js": "/qr-wifi/static/js/main.41be5f4f.chunk.js",
+    "main.js.map": "/qr-wifi/static/js/main.41be5f4f.chunk.js.map",
+    "runtime-main.js": "/qr-wifi/static/js/runtime-main.0844363b.js",
+    "runtime-main.js.map": "/qr-wifi/static/js/runtime-main.0844363b.js.map",
+    "static/js/2.09da1562.chunk.js": "/qr-wifi/static/js/2.09da1562.chunk.js",
+    "static/js/2.09da1562.chunk.js.map": "/qr-wifi/static/js/2.09da1562.chunk.js.map",
+    "index.html": "/qr-wifi/index.html",
+    "precache-manifest.e25c99432b5ecf64eeafd7cd0de492c9.js": "/qr-wifi/precache-manifest.e25c99432b5ecf64eeafd7cd0de492c9.js",
+    "service-worker.js": "/qr-wifi/service-worker.js",
+    "static/css/main.b2ebe043.chunk.css.map": "/qr-wifi/static/css/main.b2ebe043.chunk.css.map",
+    "static/js/2.09da1562.chunk.js.LICENSE.txt": "/qr-wifi/static/js/2.09da1562.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0844363b.js",
+    "static/js/2.09da1562.chunk.js",
+    "static/css/main.b2ebe043.chunk.css",
+    "static/js/main.41be5f4f.chunk.js"
+  ]
+}
